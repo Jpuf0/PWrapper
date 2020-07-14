@@ -77,7 +77,7 @@ class Alliance(object):
 
         def Member_list():
             for member in self.member_id_list:
-                yield Nation(member)
+                yield(str(Nation(member)))
 
         return list(Member_list())
 
