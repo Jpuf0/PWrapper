@@ -9,8 +9,7 @@
 
 ### Features
 - Easy to use
-- Object oriented *(take this with a grain of salt, it's my first OOP project xD)*
-- No need worry about Alex's inability to use correct typing 🙄„
+- Object oriented
 
 ### Installation
 PWrapper is now on [PyPI](https://pypi.org/project/PWrapper/), so you can just install it by doing:
