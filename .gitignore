@@ -1,0 +1,11 @@
+
+PWrapper.egg-info/top_level.txt
+build/lib/PWrapper/__init__.py
+PWrapper.egg-info/SOURCES.txt
+PWrapper.egg-info/requires.txt
+PWrapper.egg-info/PKG-INFO
+PWrapper.egg-info/dependency_links.txt
+dist/PWrapper-0.0.2.tar.gz
+dist/PWrapper-0.0.2-py3-none-any.whl
+build/lib/PWrapper/nation.py
+build/lib/PWrapper/alliance.py
