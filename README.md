@@ -13,9 +13,9 @@
 - No need worry about Alex's inability to use correct typing ðŸ™„
 
 ### Installation
-~~PWrapper is now on [PyPI](https://pypi.org/project/PWrapper/), so you can just install it by doing:~~
+PWrapper is now on [PyPI](https://pypi.org/project/PWrapper/), so you can just install it by doing:
 ```bash
-pip install pwrapper
+pip install PWrapper
 ```
 
 ### Usage
